@@ -5,7 +5,7 @@ const Accomplishments = () => {
 	return (
 		<div>
 			<h2 className="font-semibold text-lg uppercase border-b border-gray-400 mb-2">
-				Notable Accomplishments
+				Certifications & Accomplishments
 			</h2>
 			<div>
 				<div className="my-2">
