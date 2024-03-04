@@ -8,8 +8,8 @@ const userData: IData = {
 		// location: 'Berlin, Germany',
 		website: 'abdulsdevfolio.vercel.app/#/',
 		email: 'abdulmueedshahbaz@gmail.com',
-		linkedIn: 'linkedin.com/in/abdul-mueed-shahbaz-8455b618a/',
-		github: 'github.com/Abdul-Mueed-Shahbaz'
+		linkedIn: 'linkedin.com/in/-abdulmueed',
+		github: 'github.com/abdul-mueed-shz'
 	},
 	education: [
 		{
